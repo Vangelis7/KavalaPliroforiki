@@ -1,0 +1,8 @@
+ls (vgazei ola ta arxeia se lista ston fakelo)
+cd (epilegoume tin topothesia fakelou)
+git init (ksekiname to git kai ftiaxnei enan aorato fakelo)
+git remote add origin [gitLink] (vriskei to repositorie mas)
+git remote -v (mas afinei na kanoume fetch kai push)
+git add . (epilegei ola ta arxeia ston fakelo)
+git commit -m "First commit" (kanei allages topika kai prostheti sxolio)
+git push origin master (to anevazei online)
